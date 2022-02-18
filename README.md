@@ -2,7 +2,7 @@
 # Welcome to the Solar System repository!
 
 This was the first project I did using React Library on Trybe! 
-Bellow in this readme you can read the project requirements and the interface link itself. 
+Bellow in this readme you can read the project requirements, or check the site [here](https://sataniksystem.netlify.app/). 
 
 ---
 
